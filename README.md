@@ -13,4 +13,4 @@ Validate .mf4 data before and after merging
 
 前后timestamp数量都不一致，数据肯定不一样。Matlab也可复现这个结果。除非我对mf4的编码方式理解有误。
 
-可见asammdf的合并并不靠谱。
+可见asammdf的合并功能并不靠谱。
